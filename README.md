@@ -10,8 +10,6 @@ The rc/wifi car can be driven by the between webpage joy stick.  The joystick is
 ### Image of web joystick
 ![Completed Kit Image](./images/joystick.png)
 
-## Kit from Amazon
-[Amazon Link](https://amzn.to/3qbJlMA) ![Kit Image](./images/kit_image.png)</a>
 
 The Arduino code creates a websocket server to allow you to control the robot with a web joystick. 
 
@@ -29,5 +27,8 @@ Pin layout for the ESP8266
 ![Fritzing Circuit](./images/circuit.png)
 
 1) Build the car -- see video.
+## Kit from Amazon
+[Amazon Link](https://amzn.to/3qbJlMA) 
+[![Watch the video](./images/kit_image.png)](./images/esp8266apr.mp4)
 
 2) Download the program to the ESP8266
