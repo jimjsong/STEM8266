@@ -29,6 +29,6 @@ Pin layout for the ESP8266
 1) Build the car -- see video.
 ## Kit from Amazon
 [Amazon Link](https://amzn.to/3qbJlMA) 
-[![Watch the video](./images/kit_image.png)](./images/esp8266apr.mp4)
+[![Watch the video](./images/kit_image.png)](https://youtube.com/shorts/Swku5hEDQx8)
 
 2) Download the program to the ESP8266
