@@ -4,6 +4,9 @@
 
 ![Completed Kit Image](./images/stemv01small.png)
 
+
+The rc/wifi car can be driven by the between webpage joy stick.  The joystick is served off the ESP8266 using an Asynchronous Web server with websockets for communication.
+
 ### Image of web joystick
 ![Completed Kit Image](./images/joystick.png)
 
@@ -24,3 +27,7 @@ Pin layout for the ESP8266
 ![Pin Layout ESP8266](./images/NodeMCUv1.0-pinout.jpg)
 
 ![Fritzing Circuit](./images/circuit.png)
+
+1) Build the car -- see video.
+
+2) Download the program to the ESP8266
